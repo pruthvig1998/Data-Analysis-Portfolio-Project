@@ -1,4 +1,4 @@
-# PortfolioProjects
+# PortfolioProject
 SQL(COVID Data Exploration Project)
 
 This repository contains documentation and code related to my COVID data exploration project, where I used SQL to analyze COVID deaths and vaccinations data. By examining data from multiple Excel files, I uncovered key insights that shed light on the pandemic's impact on different populations and regions.
